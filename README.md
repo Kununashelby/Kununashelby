@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kununashelby
 - 👀 I’m interested in coding and building projects
-- 🌱 I’m currently learning at the 
+- 🌱 I’m currently learning at the Tom Mboya University 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kununahansen@gmail.com
-- 😄 Pronouns: am a man no need of the pronoun bulshit
+- 😄 Gender: Male
 - ⚡ Fun fact: i don't like complecating issues
 
 <!---
